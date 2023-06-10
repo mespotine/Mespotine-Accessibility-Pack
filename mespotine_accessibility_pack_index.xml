@@ -9,15 +9,18 @@
       <version name="1.0.1" author="Meo Mespotine">	
         <changelog><![CDATA[Mespotine Accessibility Pack - Changelog
           - 10th of June 2023 - Initial Commit]]>
-        </changelog>
-        <description>Mespotine Accessibility Pack</description>
+        </changelog>        
         <source main="true" file="/ultraschall_Add_ExampleScripts_To_Reaper1.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Add_ExampleScripts_To_Reaper.lua</source>
         <source main="true" file="/ultraschall_Add_Developertools_To_Reaper1.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Add_Developertools_To_Reaper.lua</source>
         <source main="true" file="/ultraschall_Help_Reaper_Api_Documentation1.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Reaper_Api_Documentation.lua</source>
         <source main="true" file="/ultraschall_Help_Reaper_Api_Video_Documentation1.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Reaper_Api_Video_Documentation.lua</source>
         <source main="true" file="/ultraschall_Help_Reaper_Api_Web_Documentation1.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Reaper_Api_Web_Documentation.lua</source>      
-      </version>
-      
+      </version>      
       </reapack>
   </category>
+  <metadata>
+    <description><![CDATA[Mespotine Accessibility Pack]]></description>
+    <link rel="website">http://mespotine.de</link>
+    <link rel="donation" href="https://mespotin.uber.space/Mespotine/mespotine-unterstuetzen/">Label</link>        
+  </metadata>
 </index>
