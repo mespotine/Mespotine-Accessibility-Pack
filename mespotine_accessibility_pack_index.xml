@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Mespotine Accessibility Pack">
+  <category name="Mespotine Accessibility Pack">
+    <reapack name="Mespotine Accessibility Pack" type="extension">
+      <version name="1.0.0" author="Meo Mespotine">	
+      <source main="true" file="/ultraschall_Add_ExampleScripts_To_Reaper.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Add_ExampleScripts_To_Reaper.lua</source>
+      <source main="true" file="/ultraschall_Add_Developertools_To_Reaper.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Add_Developertools_To_Reaper.lua</source>
+      <source main="true" file="/ultraschall_Help_Reaper_Api_Documentation.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Reaper_Api_Documentation.lua</source>
+      <source main="true" file="/ultraschall_Help_Reaper_Api_Video_Documentation.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Reaper_Api_Video_Documentation.lua</source>
+      <source main="true" file="/ultraschall_Help_Reaper_Api_Web_Documentation.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Reaper_Api_Web_Documentation.lua</source>
+      <source main="true" file="/ultraschall_Help_Reaper_ConfigVars_Documentation.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Reaper_ConfigVars_Documentation.lua</source>
+      <source main="true" file="/ultraschall_Help_Ultraschall_Api_Functions_Reference.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Ultraschall_Api_Functions_Reference.lua</source>
+      <source main="true" file="/ultraschall_Help_Ultraschall_Api_Introduction_and_Concepts.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Ultraschall_Api_Introduction_and_Concepts.lua</source>
+      <source main="true" file="/ultraschall_Help_Lua_Reference_Manual.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Help_Lua_Reference_Manual.lua</source>
+      <source main="true" file="/ultraschall_OpenFolder_Api_Documentation.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_OpenFolder_Api_Documentation.lua</source>
+      <source main="true" file="/ultraschall_OpenFolder_Api_ExampleScripts.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_OpenFolder_Api_ExampleScripts.lua</source>
+      <source main="true" file="/ultraschall_Remove_ExampleScripts_From_Reaper.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Remove_ExampleScripts_From_Reaper.lua</source>
+      <source main="true" file="/ultraschall_Remove_Developertools_From_Reaper.lua" type="script">https://raw.githubusercontent.com/Ultraschall/ultraschall-lua-api-for-reaper/Ultraschall-API-4.2.001//ultraschall_api/Scripts/ultraschall_Remove_Developertools_From_Reaper.lua</source>
+      <changelog>Mespotine Accessibility Pack - Changelog
+        - 10th of June 2023 - Initial Commit
+      </changelog>
+      </version>
+      <metadata>
+        <link rel="website">http://mespotine.de</link>
+        <link rel="donation" href="https://mespotin.uber.space/Mespotine/mespotine-unterstuetzen/">Label</link>
+        <description>Mespotine Accessibility Pack</description>
+      </metadata>
+      </reapack>
+  </category>
+</index>
