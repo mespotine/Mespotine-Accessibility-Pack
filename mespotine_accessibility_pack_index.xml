@@ -19,8 +19,47 @@
     </reapack>
   </category>
   <metadata>
-    <description><![CDATA[Hula Hoop
-]]></description>
+    <description><![CDATA[{\rtf1\ansi\deff0\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fnil\fprq2\fcharset0 Microsoft YaHei;}{\f4\fnil\fprq2\fcharset0 Mangal;}{\f5\fnil\fprq0\fcharset128 Mangal;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue128;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031 Standard;}
+{\*\cs15\snext15\cf2\ul\ulc0\langfe255\lang255\lang255 Internetlink;}
+{\s16\sbasedon0\snext17\sb240\sa120\keepn\hich\af3\dbch\af4\afs28\loch\f2\fs28 Überschrift;}
+{\s17\sbasedon0\snext17\sb0\sa120 Textkörper;}
+{\s18\sbasedon17\snext18\sb0\sa120\dbch\af5 Liste;}
+{\s19\sbasedon0\snext19\sb120\sa120\noline\i\dbch\af5\afs24\ai\fs24 Beschriftung;}
+{\s20\sbasedon0\snext20\noline\dbch\af5 Verzeichnis;}
+}{\info{\author Meo-Ada Asse}{\creatim\yr2023\mo6\dy10\hr19\min10}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr0\mo0\dy0\hr0\min0}{\comment OpenOffice}{\vern41130}}\deftab709
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 Standard;}}
+\formshade\paperh16838\paperw11906\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+Mespotine Accessibility Pack}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+accessibility scripts by Mespotine.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+It's highly recommended to install }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+\tab JS-extension - https://forum.cockos.com/showthread.php?t=212174}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+\tab SWS - }{{\field{\*\fldinst HYPERLINK "https://sws-extension.org/download/pre-release/" }{\fldrslt \cf2\ul\ulc0\langfe255\lang255\lang255\rtlch \ltrch\loch
+https://sws-extension.org/download/pre-release/}}}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+\tab and Ultraschall-API - https://github.com/Ultraschall/ultraschall-lua-api-for-reaper/raw/master/ultraschall_api_index.xml}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+for all scripts to work.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1031{\rtlch \ltrch\loch
+}
+\par }]]></description>
     <link rel="website">http://peloreaper.blog.jp/</link>
   </metadata>
 </index>
